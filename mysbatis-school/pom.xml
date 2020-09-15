@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.luftraveler.mybatis</groupId>
+    <artifactId>mysbatis-school</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>MyBatis_01_HelloWord</module>
+        <module>MyBatis_02_config</module>
+        <module>MyBatis_03_mapper</module>
+        <module>MyBatis_04_DynamicSQL</module>
+        <module>MyBatis_05_cache</module>
+        <module>MyBatis_06_sm</module>
+        <module>MyBatis_07_ssm</module>
+        <module>MyBatis_08_mbg</module>
+        <module>MyBatis_09_source</module>
+        <module>MyBatis_10_plugin</module>
+        <module>MyBatis_11_other</module>
+    </modules>
+
+
+</project>
