@@ -34,7 +34,7 @@
       <module name="MyBatis_07_ssm" target="1.5" />
       <module name="MyBatis_08_mbg" target="1.5" />
       <module name="MyBatis_09_source" target="1.5" />
-      <module name="MyBatis_10_plugin" target="1.5" />
+      <module name="MyBatis_10_plugin" target="8" />
       <module name="MyBatis_11_other" target="1.5" />
       <module name="myorm" target="1.5" />
       <module name="mysbatis-school" target="1.5" />
