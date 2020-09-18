@@ -78,6 +78,8 @@ public class MapperProxy<T> implements InvocationHandler, Serializable {
 
   @Override
   public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+    //getMapper 调用的代理对象
+    System.err.println("getMapper 调用的代理对象");
     try {
       if (Object.class.equals(method.getDeclaringClass())) {
         return method.invoke(this, args);

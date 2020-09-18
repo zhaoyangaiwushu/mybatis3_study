@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-1.0.0" />
+        <module name="MyBatis_06_sm" />
+        <module name="MyBatis_03_mapper" />
+        <module name="mybatis" />
+        <module name="MyBatis_08_mbg" />
+        <module name="MyBatis_04_DynamicSQL" />
+        <module name="MyBatis_09_source" />
+        <module name="MyBatis_07_ssm" />
+        <module name="MyBatis_11_other" />
+        <module name="MyBatis_02_config" />
+        <module name="MyBatis_05_cache" />
+        <module name="MyBatis_10_plugin" />
+        <module name="MyBatis_01_HelloWord" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis" target="1.8" />
+      <module name="mybatis-1.0.0" target="8" />
+      <module name="mybatis-parent" target="1.8" />
+      <module name="MyBatis_01_HelloWord" target="14" />
+      <module name="MyBatis_02_config" target="14" />
+      <module name="MyBatis_03_mapper" target="8" />
+      <module name="MyBatis_04_DynamicSQL" target="8" />
+      <module name="MyBatis_05_cache" target="1.5" />
+      <module name="MyBatis_06_sm" target="1.5" />
+      <module name="MyBatis_07_ssm" target="1.5" />
+      <module name="MyBatis_08_mbg" target="1.5" />
+      <module name="MyBatis_09_source" target="1.5" />
+      <module name="MyBatis_10_plugin" target="1.5" />
+      <module name="MyBatis_11_other" target="1.5" />
+      <module name="myorm" target="1.5" />
+      <module name="mysbatis-school" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_01_HelloWord/MyBatis_01_HelloWord.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_01_HelloWord/MyBatis_01_HelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_02_config/MyBatis_02_config.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_02_config/MyBatis_02_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_03_mapper/MyBatis_03_mapper.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_03_mapper/MyBatis_03_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_04_DynamicSQL/MyBatis_04_DynamicSQL.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_04_DynamicSQL/MyBatis_04_DynamicSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_05_cache/MyBatis_05_cache.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_05_cache/MyBatis_05_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_06_sm/MyBatis_06_sm.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_06_sm/MyBatis_06_sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_07_ssm/MyBatis_07_ssm.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_07_ssm/MyBatis_07_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_08_mbg/MyBatis_08_mbg.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_08_mbg/MyBatis_08_mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_09_source/MyBatis_09_source.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_09_source/MyBatis_09_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_10_plugin/MyBatis_10_plugin.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_10_plugin/MyBatis_10_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/MyBatis_11_other/MyBatis_11_other.iml" filepath="$PROJECT_DIR$/mysbatis-school/MyBatis_11_other/MyBatis_11_other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-source-code/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis-source-code/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myorm/mybatis-1.0.0/mybatis-1.0.0.iml" filepath="$PROJECT_DIR$/myorm/mybatis-1.0.0/mybatis-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-source-code/mybatis-parent/mybatis-parent.iml" filepath="$PROJECT_DIR$/mybatis-source-code/mybatis-parent/mybatis-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mybatis3_study.iml" filepath="$PROJECT_DIR$/.idea/mybatis3_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myorm/myorm.iml" filepath="$PROJECT_DIR$/myorm/myorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysbatis-school/mysbatis-school.iml" filepath="$PROJECT_DIR$/mysbatis-school/mysbatis-school.iml" />
+    </modules>
+  </component>
+</project>

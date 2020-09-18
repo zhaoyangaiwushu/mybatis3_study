@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis-source-code/mybatis-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-source-code/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/myorm/pom.xml" />
+        <option value="$PROJECT_DIR$/mysbatis-school/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
